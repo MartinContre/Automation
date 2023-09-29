@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Martin",
+    "login": "MC",
+    "email": "m.contreras@mail.com"
+  },
+  "session": {
+    "sessionKey": "mySession",
+    "buildNumber": 1
+  },
+  "test": {
+    "projectName": "Database Connection",
+    "env": "DESKTOP"
+  }
+}
