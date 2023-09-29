@@ -1,0 +1,7 @@
+{
+  "base_URI":"https://gmail.googleapis.com",
+  "get_all_messages" : "/gmail/v1/users/%s/messages?q=is:unread",
+  "get_message_by_id": "/gmail/v1/users/%s/messages/%s",
+  "post_batch_modify": "/gmail/v1/users/%s/messages/batchModify",
+  "post_message_modify": "/gmail/v1/users/%s/messages/%s/modify"
+}
