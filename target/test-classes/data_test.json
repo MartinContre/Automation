@@ -1,0 +1,30 @@
+{
+  "employees":
+  [
+    {
+      "firstName": "Jon",
+      "lastName": "Snow",
+      "email": "knownothing@gmail.com",
+      "age": 30,
+      "salary": 3000,
+      "department": "alpha"
+    },
+    {
+      "firstName": "Buttercup",
+      "lastName": "Cumbersnatch",
+      "email": "BudapestCandygram@mail.io",
+      "age": 41,
+      "salary": 2000,
+      "department": "beta"
+    }
+  ],
+  "btnAlert": "You clicked a button",
+  "btnClick": "Do you confirm action?",
+  "appearedTxt": "You selected Ok",
+  "enterName": "Please enter your name",
+  "lengthText": 8,
+  "parentTxt": "Parent frame",
+  "childTxt": "Child Iframe",
+  "newTabTxt": "This is a sample page",
+  "rowsTable": 3
+}
